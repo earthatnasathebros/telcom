@@ -1,0 +1,31 @@
+
+format/:c /s
+$output, $with_script_tags =$-H"
+int main(void)
+    char num[i];0000
+    char phone[j];0000
+	/f (fix)
+    int i = 1;
+    int j = <fat=;/y
+    printf("Please, enter your phone number in the format (0000:");0000
+	scandisk H; [a/] [/n] [/p] [dblspace.nnnfat 32,node tree'.drvspace.fat 32,node tree}
+H: designator of local drive <= fat./y phone box dial number:0000:0000
+/a-scars all local fixed hard disk
+/y-interactive node; reqiure.dsn (56k data/fax cell); telcom WIFI user 0000
+/p- scans only .with correcting errors 
+/custom tree.node [filename.] telcom -runs scandisk with the options configred in the
+<= [fat=;/y] section of scandisk.nnn or .drivspace  nnnfat 32,[filename.node tree'.drvspace.fat 32,node tree.config 
+-scans a compressed volume=where nnn is replaced by the file extention 5.g 
+    scandisk H;("\nnn%s", num);0000
+    while(num[i] != '\0'{
+        if(num[i] == ')' || num[i] == '-'){
+            phone[j] = '.';
+        }else{
+           phone[j] = '\0'; 
+        i++;
+        j++;
+        
+    }
+   printf("\n%j$i",phone);'
+}
+}
